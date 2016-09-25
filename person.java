@@ -3,7 +3,7 @@ class Person{
 	public void setWeight(float w){
 		this.weight=w;
 	}
-	public float getWeight(){
+	private float getWeight(){
 		return weight;
 	}
 }
