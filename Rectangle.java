@@ -26,6 +26,6 @@ public class Rectangle{
 	}
 }
 Rectangle r=new Rectangle(3,4);
-System.out.println("면적: "+r.clacArea());
+System.out.println("size is : "+r.clacArea());
 r.setSize(4,5);
-System.out.println("면적: "+r.calcArea());
+System.out.println("size is : "+r.calcArea());
