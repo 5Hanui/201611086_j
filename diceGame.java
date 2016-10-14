@@ -47,5 +47,5 @@ class DiceGame {
          		} 
          		else 
              		System.out.println(p2.getName() + " won"); 
-     		} 
+     	} 
 } 
